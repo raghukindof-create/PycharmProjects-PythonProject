@@ -1,0 +1,2 @@
+#object oriented programming language  (class, object, inheritance, polymorphism, encapsulation, data abstraction). if any programming
+# languege support these feature, it will be called as a object oriented programming language

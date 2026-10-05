@@ -1,0 +1,12 @@
+pytest
+playwright
+pytest-xdist
+pytest-html
+allure-pytest
+pytest-rerunfailures
+openpyxl
+Faker
+python-slugify
+
+
+#to install these plugin run: pip install -r requirements
